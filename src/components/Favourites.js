@@ -13,7 +13,7 @@ function Favourites() {
     
 
     <div>Inputs Container</div>
-    <div>Table Container</div>
+    <div>Tables Container</div>
     <div>Pagination</div>
   </>;
 }
